@@ -1,0 +1,13 @@
+* Setup GitHub account
+
+* Create a repo on GitHub
+
+* Create a repo on the local desktop
+
+* Add & commit the changes 
+
+* git config --global user.name the username
+
+* git config --global user.email the email
+
+* Then push it to remote by using : git push -u origin master ; here master is the main branch 
